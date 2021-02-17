@@ -25,3 +25,9 @@ bookc = Book.create(title: "Lilly Reborn", author: author4, publisher: pub3, pri
 bookd = Book.create(title: "Anathema", author: author5, publisher: author5, price: 9.41)
 booke = Book.create(title: "Best Of", author: author2, publisher: pub3, price: 12.24)
 bookf = Book.create(title: "Anyway", author: author6, publisher: pub3, price: 19.99)
+
+player1 = Player.create(name: "Kobe")
+player2 = Player.create(name: "MJ")
+player3 = Player.create(name: "Rodman")
+player4 = Player.create(name: "Shaq")
+player5 = Player.create(name: "Iverson")
